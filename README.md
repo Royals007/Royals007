@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Royals007
-- 👀 I’m interested in Machine Learning, DS, Full-stack, DB..
+- 👀 I’m interested in Software Development, Machine Learning, DS, Full-stack, DB..
 - <a href="https://github.com/DevExpress/testcafe">
     <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
 </a>
